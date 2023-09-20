@@ -47,8 +47,8 @@
         "icon": "https://img.icons8.com/color/48/django.png"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+        "name": "MS SQL",
+        "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
     },
     {
         "name": "MySQL",
