@@ -13,6 +13,10 @@
         "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
     },
     {
+        "name": "ChakraUI",
+        "icon": "https://icons8.com/icon/r9QJ0VFFrn7T/chakra-ui"
+    },
+    {
         "name": "TailwindCSS",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
     },
