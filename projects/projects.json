@@ -41,7 +41,7 @@
   },
   {
     "name": "Tours & Travel Portal",
-    "desc": "A travel tour app built with HTML, CSS, JavaScript, and Python Django is a web application designed to help users explore and book travel tours to various destinations.",
+    "desc": "Travel tour app: HTML, CSS, JS frontend, Python Django backend, for planning and booking travel adventures.",
     "image": "instagrammern",
     "category": "mern",
     "links": {
