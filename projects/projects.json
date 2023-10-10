@@ -2,7 +2,7 @@
   {
     "name": "Tours & Travel Portal",
     "desc": "Travel tour app: HTML, CSS, JS frontend, Python Django backend, for planning and booking travel adventures.",
-    "image": "assets/images/projects/tours.PNG",
+    "image": "assets/images/projects/tours.png",
     "category": "mern",
     "links": {
       "view": "https://veikeishun.com/",
