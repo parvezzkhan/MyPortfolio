@@ -1,45 +1,5 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/parvezzkhan/parvezzkhan"
-    }
-  },
-  {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/parvezzkhan/parvezzkhan"
-    }
-  },
-  {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/parvezzkhan/parvezzkhan"
-    }
-  },
-  {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/parvezzkhan/parvezzkhan"
-    }
-  },
-  {
     "name": "Tours & Travel Portal",
     "desc": "Travel tour app: HTML, CSS, JS frontend, Python Django backend, for planning and booking travel adventures.",
     "image": "tours",
@@ -50,22 +10,22 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "name": "NS Electronics Static Website",
+    "desc": "NS Electronics Service: Professional home appliance repair with HTML, CSS, and JS for seamless, efficient service.",
+    "image": "pdftoaud",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
+      "view": "https://nselectronics.vercel.app/",
       "code": "https://github.com/parvezzkhan/parvezzkhan"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Khanfolio",
+    "desc": "Portfolio showcase: HTML, CSS, JS-powered website highlighting skills, projects, and achievements for a memorable online presence.",
+    "image": "kfolio",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
+      "view": "https://parvezkhan.vercel.app/",
       "code": "https://github.com/parvezzkhan/parvezzkhan"
     }
   },
