@@ -40,13 +40,12 @@
     }
   },
   {
-    "name": "Instagram MERN",
+    "name": "Tours & Travel Portal",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "image": "tours",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/parvezzkhan/parvezzkhan"
+      "view": "https://veikeishun.com/"
     }
   },
   {
