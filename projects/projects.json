@@ -2,7 +2,7 @@
   {
     "name": "Tours & Travel Portal",
     "desc": "Travel tour app: HTML, CSS, JS frontend, Python Django backend, for planning and booking travel adventures.",
-    "image": "assets/images/projects/tours.png",
+    "image": "tours",
     "category": "mern",
     "links": {
       "view": "https://veikeishun.com/",
@@ -12,7 +12,7 @@
   {
     "name": "NS Electronics Static Website",
     "desc": "NS Electronics Service: Professional home appliance repair with HTML, CSS, and JS for seamless, efficient service.",
-    "image": "assets/images/projects/pdftoaud.jpg",
+    "image": "pdftoaud",
     "category": "mern",
     "links": {
       "view": "https://nselectronics.vercel.app/",
@@ -22,7 +22,7 @@
   {
     "name": "Khanfolio",
     "desc": "Portfolio showcase: HTML, CSS, JS-powered website highlighting skills, projects, and achievements for a memorable online presence.",
-    "image": "assets/images/projects/kfolio.jpg",
+    "image": "kfolio",
     "category": "mern",
     "links": {
       "view": "https://parvezkhan.vercel.app/",
