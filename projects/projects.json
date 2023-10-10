@@ -12,10 +12,20 @@
   {
     "name": "NS Electronics Static Website",
     "desc": "NS Electronics Service: Professional home appliance repair with HTML, CSS, and JS for seamless, efficient service.",
-    "image": "pdftoaud",
+    "image": "nselectronics",
     "category": "mern",
     "links": {
       "view": "https://nselectronics.vercel.app/",
+      "code": "https://github.com/parvezzkhan/parvezzkhan"
+    }
+  },
+  {
+    "name": "PDF to Audio Converter",
+    "desc": "PDF to audio converter: Python, HTML, CSS combo for converting PDF documents into spoken content effortlessly.",
+    "image": "pdftoaud",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/parvezzkhan/parvezzkhan",
       "code": "https://github.com/parvezzkhan/parvezzkhan"
     }
   },
@@ -26,16 +36,6 @@
     "category": "mern",
     "links": {
       "view": "https://parvezkhan.vercel.app/",
-      "code": "https://github.com/parvezzkhan/parvezzkhan"
-    }
-  },
-  {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
-    "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
       "code": "https://github.com/parvezzkhan/parvezzkhan"
     }
   },
