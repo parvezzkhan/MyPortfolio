@@ -90,12 +90,12 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "K Recipe Finder",
+    "desc": "Built a Recipe Finder app using React and an API to search, view, and save recipes.",
+    "image": "recipe",
+    "category": "mern",
     "links": {
-      "view": "https://github.com/parvezzkhan/parvezzkhan",
+      "view": "https://krecipefinder.vercel.app/",
       "code": "https://github.com/parvezzkhan/parvezzkhan"
     }
   },
