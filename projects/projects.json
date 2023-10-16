@@ -100,12 +100,12 @@
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
+    "name": "React Portfolio",
+    "desc": "Created portfolio with React technology for web development showcase and personal branding.",
+    "image": "pkdevfolio",
     "category": "mern",
     "links": {
-      "view": "https://github.com/parvezzkhan/parvezzkhan",
+      "view": "https://pkdevfolio.vercel.app/",
       "code": "https://github.com/parvezzkhan/parvezzkhan"
     }
   },
