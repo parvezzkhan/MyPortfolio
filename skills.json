@@ -46,6 +46,10 @@
         "name": "Django",
         "icon": "https://img.icons8.com/color/48/django.png"
     },
+         {
+        "name": "Django Rest Framework",
+        "icon": "https://i.ibb.co/0QN5FNB/django.png"
+    },
     {
         "name": "MS SQL",
         "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
