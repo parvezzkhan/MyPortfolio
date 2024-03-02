@@ -51,6 +51,14 @@
         "icon": "https://i.ibb.co/g95LYLD/django-1.png"
     },
     {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "WP Bakery Builder",
+        "icon": "https://i.ibb.co/HxtYkyf/wpbakery-logo-1.png"
+    },
+    {
         "name": "MS SQL",
         "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
     },
@@ -70,10 +78,6 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     },
     {
         "name": "More",
