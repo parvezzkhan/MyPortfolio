@@ -38,10 +38,6 @@
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
-    {
-        "name": "C",
-        "icon": "https://img.icons8.com/color/48/c-programming.png"
-    },
      {
         "name": "Django",
         "icon": "https://img.icons8.com/color/48/django.png"
@@ -53,6 +49,14 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "Shopify",
+        "icon": "https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000"
+    },
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/color/48/c-programming.png"
     },
     {
         "name": "WP Bakery Builder",
